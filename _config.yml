@@ -15,11 +15,11 @@ defaults:
       layout: default
 tagline: Customer Success Engineer at MathWorks, Former Researcher at UC3M RoboticsLab
 #twitter:
- #   - username: aitorarrieta
+ #   - username: ...
 #social:
  # links:
-  #  - https://twitter.com/aitorarrieta
-description: Aitor Arrieta is a lecturer and researcher at Mondragon University. His main researh interests are Cyber-Physical Systems testing, regression testing, search-based software testing and simulation-based testing.
+  #  - https://twitter.com/...
+description: Jennifer J. Gago received her MSc in Robotics and Automation and her BEng in Industrial Technologies Engineering from University Carlos III of Madrid, Edinburgh Napier University and Vilnius Gediminas Technical University. She works with universities across Spain to introduce Computational Thinking and Model-Based Design into teaching and research. She has published several research articles on Neural Networks and Sign Language representation by Humanoid Robots. She has previously worked in academia as well as industry, both in the R&D Department, including also an internship in the field of X-Ray mobile equipment and two years as a MATLAB Student Ambassador. </a><p> 
 
 bio: Jennifer J. Gago received her MSc in Robotics and Automation and her BEng in Industrial Technologies Engineering from University Carlos III of Madrid, Edinburgh Napier University and Vilnius Gediminas Technical University. She works with universities across Spain to introduce Computational Thinking and Model-Based Design into teaching and research. She has published several research articles on Neural Networks and Sign Language representation by Humanoid Robots. She has previously worked in academia as well as industry, both in the R&D Department, including also an internship in the field of X-Ray mobile equipment and two years as a MATLAB Student Ambassador. </a><p> 
 
@@ -27,6 +27,6 @@ bio: Jennifer J. Gago received her MSc in Robotics and Automation and her BEng i
     <i class="fa fa-envelope-o" aria-hidden="true"></i>
     <span class="sr-only">Mail:</span>&nbsp;&nbsp;<a href="mailto:jennifer.gmunoz@gmail.com">jennifer.gmunoz@gmail.com</a>
    # <i class="fa fa-twitter" aria-hidden="true"></i>
-   # <span class="sr-only">Twitter:</span>&nbsp;&nbsp;<a href="https://www.twitter.com/aitorarrieta">@aitorarrieta</a>
+   # <span class="sr-only">Twitter:</span>&nbsp;&nbsp;<a href="https://www.twitter.com/...">@...</a>
 logo: assets/myfoto.jpg
 logo_title: Jennifer Gago
