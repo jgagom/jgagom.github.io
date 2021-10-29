@@ -1,12 +1,15 @@
 # About Me
 
-Jennifer J. Gago received her MSc in Robotics and Automation and her BEng in Industrial Technologies Engineering from University Carlos III of Madrid, Edinburgh Napier University and Vilnius Gediminas Technical University. She works with universities across Spain to introduce Computational Thinking and Model-Based Design into teaching and research. She has published several research articles on Neural Networks and Sign Language representation by Humanoid Robots. She has previously worked in academia as well as industry, both in the R&D Department, including also an internship in the field of X-Ray mobile equipment and two years as a MATLAB Student Ambassador. 
-
-## Projects
+I am an Industrial Engineer specialized in Robotics and studying a Bachelor's Degree in Philosophy. I have worked with X-ray mobile equipment at Siemens R&D, as a MATLAB Ambassador for my home university, as a Robotics researcher in UC3M RoboticsLab and as a Customer Success Engineer for MathWorks. Besides work: family, musical instruments, sports, reading, and traveling. Continuosly pursing opportunities to grow both professionally and personally.
 
 
-## Blog and News 
+## Industrial Experience
 
 
-## Papers
+## Research Projects
 
+
+### Papers
+
+
+## Awards
