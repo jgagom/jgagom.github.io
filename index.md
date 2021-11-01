@@ -23,7 +23,7 @@ You can find most of my publications in my [Google Scholar profile](https://scho
 ## Education
 
 * [2019/09 - Ongoing] BA Philosophy at UNED
-* [2018/09 - 2020/02] MSc Rorbotics and Automation at UC3M
+* [2018/09 - 2020/02] MSc Robotics and Automation at UC3M
 * [2013/09 - 2018/06] BEng Industrial Engineering (Intensification in Electronics & Automation)
   *  [2016/09 - 2017/06] Erasmus+ Exchange at Vilnius Gediminas Technical University
   *  [2015/08 - 2016/01] Free Mover Exchange at Edinburgh Napier University
