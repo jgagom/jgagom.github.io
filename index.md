@@ -23,10 +23,11 @@ I am an Industrial Engineer specialized in Robotics and studying a Bachelor's De
 
 ## [PUBLICATIONS](papers.html)
 
+Click above if you want to check my publications.
 You can find most of my scientific publications in my [Google Scholar profile](https://scholar.google.es/citations?user=8wrwg4sAAAAJ&hl=es&authuser=1).
 
 
-## Education
+## EDUCATION
 
 * 2019/09-Ongoing — BA Philosophy at UNED [[Program]](http://portal.uned.es/portal/page?_pageid=93,71398199&_dad=portal&_schema=PORTAL&idTitulacion=7001) <br>
 * 2018/09-2020/02 — MSc Robotics and Automation at UC3M [[Program]](https://www.uc3m.es/master/robotics#curriculum) <br>
@@ -36,16 +37,16 @@ You can find most of my scientific publications in my [Google Scholar profile](h
 * 2015/08-2016/01 — Free Mover Exchange at Edinburgh Napier University <br>
 * 2000/09-2010/06 — Piano and Music Theory Studies at Alcobendas School of Music
 
-## Languajes
+## LANGUAGES
 * Spanish - Native Language
 * English - CAE: C1; IELTS: C1, Full professional proficiency
 * French - B1, Limited working proficiency
 * Lithuanian - A1, Elementary proficiency
 
-## Awards
+## AWARDS
 * [2018/04] 1st Prize - Best Python programmed Bot at GUL UC3M Hackathon
 * [2018/03] 1st Prize - Best innovative project at 1st Indra Sistemas Hack Day
 * [2015/04] 1st Prize - "Ventana" by Jennifer Gago at Rafael Morales XII Poetry Contest
 
-## Press contributions
+## PRESS CONTRIBUTIONS
 
