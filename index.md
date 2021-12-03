@@ -16,7 +16,7 @@ I am an Industrial Engineer specialized in Robotics and studying a Bachelor's De
 * 2018/02-2020/11 — TEO Humanoid Robot Sign Language [[Project page]](http://roboticslab.uc3m.es/roboticslab/robottypeandapp/robot-sign-language) <br>
 * 2017/07-2018/07 — Development and Integration of an Anthropomorphic Robotic Hand in the Humanoid Robot TEO [[GitHub rep]](https://github.com/roboticslab-uc3m/Dextra)
 
-## PUBLICATIONS
+## [PUBLICATIONS](papers.html)
 
 You can find most of my scientific publications in my [Google Scholar profile](https://scholar.google.es/citations?user=8wrwg4sAAAAJ&hl=es&authuser=1).
 
