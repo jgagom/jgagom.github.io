@@ -6,15 +6,15 @@ I am an Industrial Engineer specialized in Robotics and studying a Bachelor's De
 ## PROFESSIONAL EXPERIENCE
 
 * 10/2019-Ongoing <br>
-Customer Success Engineer at [MathWorks](https://es.mathworks.com/) <br>
+<b>Customer Success Engineer</b> at [MathWorks](https://es.mathworks.com/) <br>
 * 2018/02-2020/02 <br>
-Researcher at UC3M [RoboticsLab](http://roboticslab.uc3m.es/roboticslab/) <br>
+<b>Researcher</b> at UC3M [RoboticsLab](http://roboticslab.uc3m.es/roboticslab/) <br>
 * 2017/10-2019/07 <br>
-MATLAB Senior [Student Ambassador](https://es.mathworks.com/academia/students/student-ambassadors.html) <br>
+<b>MATLAB Senior [Student Ambassador](https://es.mathworks.com/academia/students/student-ambassadors.html)</b> <br>
 * 2017/06-2018/02 <br>
-X-Ray Mobile Equipment Intern at [Siemens](https://www.siemens-healthineers.com/es) <br>
+<b>X-Ray Mobile Equipment Intern</b> at [Siemens](https://www.siemens-healthineers.com/es) <br>
 * 2016/06-2016/07 <br>
-3D Printers Technical Intern at [ASROB UC3M](https://asrob.uc3m.es/)
+<b>3D Printers Technical Intern</b> at [ASROB UC3M](https://asrob.uc3m.es/)
 
 ## RESEARCH PROJECTS
 
