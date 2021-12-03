@@ -36,8 +36,7 @@ Click [<b>here</b>](papers.html) if you want to check my publications. <br>
 <b>MSc Robotics and Automation</b> at UC3M <br>
 90 ECTS, Grade: 9.37 [[Program]](https://www.uc3m.es/master/robotics#curriculum) <br>
 * 2013/09-2018/06 <br>
-<b>BEng Industrial Engineering</b> <br>
-(Intensification in Electronics & Automation) <br>
+<b>BEng Industrial Engineering</b> (Major in Electronics & Automation) <br>
 254 ECTS, Grade: 8.04 [[Program]](https://www.uc3m.es/bachelor-degree/industrial-technologies#program_previousprogram) <br>
 * 2016/09-2017/06 <br>
 <b>Erasmus+ Exchange</b> at VGTU (Lithuania) <br>
