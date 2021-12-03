@@ -30,15 +30,15 @@ Click [<b>here</b>](papers.html) if you want to check my publications. <br>
 ## EDUCATION
 
 * 2019/09-Ongoing <br>
-<b>BA Philosophy</b> at UNED [[Program]](http://portal.uned.es/portal/page?_pageid=93,71398199&_dad=portal&_schema=PORTAL&idTitulacion=7001) <br>
-32 ECTS, Grade: 8.9 <br>
+<b>BA Philosophy</b> at UNED <br>
+32 ECTS, Grade: 8.9 [[Program]](http://portal.uned.es/portal/page?_pageid=93,71398199&_dad=portal&_schema=PORTAL&idTitulacion=7001)<br>
 * 2018/09-2020/02 <br>
-<b>MSc Robotics and Automation</b> at UC3M [[Program]](https://www.uc3m.es/master/robotics#curriculum) <br>
-90 ECTS, Grade: 9.37 <br>
+<b>MSc Robotics and Automation</b> at UC3M <br>
+90 ECTS, Grade: 9.37 [[Program]](https://www.uc3m.es/master/robotics#curriculum) <br>
 * 2013/09-2018/06 <br>
-<b>BEng Industrial Engineering</b> [[Program]](https://www.uc3m.es/bachelor-degree/industrial-technologies#program_previousprogram) <br>
+<b>BEng Industrial Engineering</b> <br>
 (Intensification in Electronics & Automation) <br>
-254 ECTS, Grade: 8.04 <br>
+254 ECTS, Grade: 8.04 [[Program]](https://www.uc3m.es/bachelor-degree/industrial-technologies#program_previousprogram) <br>
 * 2016/09-2017/06 <br>
 <b>Erasmus+ Exchange</b> at VGTU (Lithuania) <br>
 * 2015/08-2016/01 <br>
