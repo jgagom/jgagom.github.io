@@ -63,3 +63,13 @@ Click [<b>here</b>](press.html) if you want to check my press contributions. <br
 
 ## SIDE PROJECTS
 
+* JEVART Survival Kits
+* CV Transformation
+
+## COURSES
+
+Click [<b>here</b>](courses.html) if you want to check the list of courses I have completed. <br>
+
+## CERTIFICATIONS
+
+Click [<b>here</b>](certificates.html) if you want to check the list of certificates I own. <br>
