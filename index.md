@@ -25,9 +25,7 @@ Development and Integration of an Anthropomorphic Robotic Hand in the Humanoid R
 
 ## [PUBLICATIONS](papers.html)
 
-Click above if you want to check my publications.
-You can find most of my scientific publications in my [Google Scholar profile](https://scholar.google.es/citations?user=8wrwg4sAAAAJ&hl=es&authuser=1).
-
+Click above if you want to check my publications. <br>
 
 ## EDUCATION
 
