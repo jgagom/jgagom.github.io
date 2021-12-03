@@ -18,8 +18,10 @@ I am an Industrial Engineer specialized in Robotics and studying a Bachelor's De
 
 ## RESEARCH PROJECTS
 
-* 2018/02-2020/11 — TEO Humanoid Robot Sign Language [[Web]](http://roboticslab.uc3m.es/roboticslab/robottypeandapp/robot-sign-language) <br>
-* 2017/07-2018/07 — Development and Integration of an Anthropomorphic Robotic Hand in the Humanoid Robot TEO [[GitHub]](https://github.com/roboticslab-uc3m/Dextra)
+* 2018/02-2020/11 <br>
+TEO Humanoid Robot Sign Language [[Web]](http://roboticslab.uc3m.es/roboticslab/robottypeandapp/robot-sign-language) <br>
+* 2017/07-2018/07 <br>
+Development and Integration of an Anthropomorphic Robotic Hand in the Humanoid Robot TEO [[GitHub]](https://github.com/roboticslab-uc3m/Dextra)
 
 ## [PUBLICATIONS](papers.html)
 
@@ -29,13 +31,22 @@ You can find most of my scientific publications in my [Google Scholar profile](h
 
 ## EDUCATION
 
-* 2019/09-Ongoing — BA Philosophy at UNED [[Program]](http://portal.uned.es/portal/page?_pageid=93,71398199&_dad=portal&_schema=PORTAL&idTitulacion=7001) <br>
-* 2018/09-2020/02 — MSc Robotics and Automation at UC3M [[Program]](https://www.uc3m.es/master/robotics#curriculum) <br>
-* 2013/09-2018/06 — BEng Industrial Engineering [[Program]](https://www.uc3m.es/bachelor-degree/industrial-technologies#program_previousprogram) <br>
-  (Intensification in Electronics & Automation) <br>
-* 2016/09-2017/06 — Erasmus+ Exchange at VGTU (Lithuania) <br>
-* 2015/08-2016/01 — Free Mover Exchange at Edinburgh Napier University <br>
-* 2000/09-2010/06 — Piano and Music Theory Studies at Alcobendas School of Music
+* 2019/09-Ongoing <br>
+<b>BA Philosophy</b> at UNED [[Program]](http://portal.uned.es/portal/page?_pageid=93,71398199&_dad=portal&_schema=PORTAL&idTitulacion=7001) <br>
+32 ECTS, Grade: 8.9 <br>
+* 2018/09-2020/02 <br>
+<b>MSc Robotics and Automation</b> at UC3M [[Program]](https://www.uc3m.es/master/robotics#curriculum) <br>
+90 ECTS, Grade: 9.37 <br>
+* 2013/09-2018/06 <br>
+<b>BEng Industrial Engineering</b> [[Program]](https://www.uc3m.es/bachelor-degree/industrial-technologies#program_previousprogram) <br>
+(Intensification in Electronics & Automation) <br>
+254 ECTS, Grade: 8.04 <br>
+* 2016/09-2017/06 <br>
+<b>Erasmus+ Exchange</b> at VGTU (Lithuania) <br>
+* 2015/08-2016/01 <br>
+<b>Free Mover Exchange</b> at Edinburgh Napier University <br>
+* 2000/09-2010/06 <br>
+<b>Piano and Music Theory Studies</b> at Alcobendas School of Music
 
 ## LANGUAGES
 * Spanish - Native Language
