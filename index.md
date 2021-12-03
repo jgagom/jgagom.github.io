@@ -23,9 +23,9 @@ TEO Humanoid Robot Sign Language [[Web]](http://roboticslab.uc3m.es/roboticslab/
 * 2017/07-2018/07 <br>
 Development and Integration of an Anthropomorphic Robotic Hand in the Humanoid Robot TEO [[GitHub]](https://github.com/roboticslab-uc3m/Dextra)
 
-## [PUBLICATIONS](papers.html)
+## PUBLICATIONS
 
-Click above if you want to check my publications. <br>
+Click [<b>here</b>](papers.html) if you want to check my publications. <br>
 
 ## EDUCATION
 
@@ -57,5 +57,6 @@ Click above if you want to check my publications. <br>
 * 1st Prize - Best innovative project at 1st 2018 Indra Sistemas Hack Day
 * 1st Prize - "Ventana" by Jennifer Gago at 2015 Rafael Morales XII Poetry Contest
 
-## [PRESS CONTRIBUTIONS](.html)
+## PRESS CONTRIBUTIONS
 
+Click [<b>here</b>](.html) if you want to check my press contributions. <br>
