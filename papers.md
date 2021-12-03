@@ -1,5 +1,6 @@
 ## Papers
 
+Please, click on the dates to access the documents.
 You can find most of my scientific publications in my [Google Scholar profile](https://scholar.google.es/citations?user=8wrwg4sAAAAJ&hl=es&authuser=1).
 
 ### Thesis
@@ -23,3 +24,9 @@ You can find most of my scientific publications in my [Google Scholar profile](h
 
 * Gago, J. J., & Victores, J. G. ([2016](https://asrob-uc3m.gitbooks.io/impresoras-maintenance-manual-i3/content/)). Manteinance Manual (BLACKY e HIJA RESURRECTION) of Prusa Air i3 3D Printers (Manual, Dept. Sist. Autom., Universidad Carlos III de Madrid (UC3M), Madrid, Spain).
 * Gago, J. J., & Victores, J. G. ([2016](https://asrob-uc3m.gitbooks.io/impresoras-user-manual-i3/content/)). User Manual (BLACKY e HIJA RESURRECTION) of Prusa Air i3 3D Printers (Manual, Dept. Sist. Autom., Universidad Carlos III de Madrid (UC3M), Madrid, Spain).
+
+
+### Poetry
+
+* Gago, J. J. (2019). 7 DAYS IN HELLVEN.
+* Gago, J. J. (2016). Ventana.
