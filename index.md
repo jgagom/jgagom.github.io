@@ -10,7 +10,7 @@ I am an Industrial Engineer specialized in Robotics and studying a Bachelor's De
 * 2018/02-2020/02 <br>
 <b>Researcher</b> at UC3M [RoboticsLab](http://roboticslab.uc3m.es/roboticslab/) <br>
 * 2017/10-2019/07 <br>
-<b>MATLAB</b> [Student Ambassador](https://es.mathworks.com/academia/students/student-ambassadors.html) <br>
+<b>MATLAB</b> [Student Ambassador](https://es.mathworks.com/academia/students/student-ambassadors.html) at MathWorks <br>
 * 2017/06-2018/02 <br>
 <b>X-Ray Mobile Equipment Intern</b> at [Siemens](https://www.siemens-healthineers.com/es) <br>
 * 2016/06-2016/07 <br>
