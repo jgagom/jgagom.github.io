@@ -52,7 +52,8 @@ Click [<b>here</b>](papers.html) if you want to check my publications. <br>
 * French: B1, Limited working proficiency
 * Lithuanian: A1, Elementary proficiency
 
-## AWARDS
+## AWARDS & RECOGNITION 
+* Nomination & Membership - Nova Talent (top ~1-3% of profiles in my industry) 2021
 * 1st Prize - Best Python programmed Bot at 2018 GUL UC3M Hackathon
 * 1st Prize - Best innovative project at 1st 2018 Indra Sistemas Hack Day
 * 1st Prize - "Ventana" by Jennifer Gago at 2015 Rafael Morales XII Poetry Contest
@@ -60,3 +61,6 @@ Click [<b>here</b>](papers.html) if you want to check my publications. <br>
 ## PRESS CONTRIBUTIONS
 
 Click [<b>here</b>](.html) if you want to check my press contributions. <br>
+
+## SIDE PROJECTS
+
