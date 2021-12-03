@@ -54,7 +54,7 @@ Click [<b>here</b>](papers.html) if you want to check my publications. <br>
 
 ## AWARDS & RECOGNITION 
 * Nomination & Membership - Nova Talent (top ~1-3% of profiles in my industry) 2021
-* 1st Prize - Best Python programmed Bot at 2018 GUL UC3M Hackathon
+* 1st Prize - Best Python Bot at 2018 GUL UC3M Hackathon
 * 1st Prize - Best innovative project at 1st 2018 Indra Sistemas Hack Day
 * 1st Prize - "Ventana" by Jennifer Gago at 2015 Rafael Morales XII Poetry Contest
 
