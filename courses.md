@@ -20,7 +20,7 @@
 
 
 ### Management & Finances
-* Configuration Management course AIRBUS (8h)
+* Configuration Management course, AIRBUS (8h)
 * MOOC Financial Accounting by Wharton Business School, U. of Pennsylvania (20h)
 * Quality Management Course, VGTU (38h)
 
@@ -33,7 +33,7 @@
 ### Transversal training
 
 * Ableton - Musical production, Intensive course, UC3Music, UC3M (14h)
-* Labour Risks Prevention course, Adecco Formación S.A.(2h)
+* Labour Risks Prevention course, Adecco Formación S.A. (2h)
 * Lithuanian Language Course for Foreign Students A1-2, VGTU (44h)
 
 
