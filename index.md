@@ -6,15 +6,15 @@ I am an Industrial Engineer specialized in Robotics and studying a Bachelor's De
 ## PROFESSIONAL EXPERIENCE
 
 * 10/2019-Ongoing — Customer Success Engineer at [MathWorks](https://es.mathworks.com/) <br>
-* 2018/02-2020/02 — Researcher at UC3M [RoboticsLab](http://roboticslab.uc3m.es/roboticslab/) research group <br>
+* 2018/02-2020/02 — Researcher at UC3M [RoboticsLab](http://roboticslab.uc3m.es/roboticslab/) <br>
 * 2017/10-2019/07 — MATLAB Senior [Student Ambassador](https://es.mathworks.com/academia/students/student-ambassadors.html) <br>
 * 2017/06-2018/02 — X-Ray Mobile Equipment Intern at [Siemens](https://www.siemens-healthineers.com/es) <br>
 * 2016/06-2016/07 — 3D Printers Technical Intern at [ASROB UC3M](https://asrob.uc3m.es/) (Systems and Automation Dept.) 
 
 ## RESEARCH PROJECTS
 
-* 2018/02-2020/11 — TEO Humanoid Robot Sign Language [[Project page]](http://roboticslab.uc3m.es/roboticslab/robottypeandapp/robot-sign-language) <br>
-* 2017/07-2018/07 — Development and Integration of an Anthropomorphic Robotic Hand in the Humanoid Robot TEO [[GitHub rep]](https://github.com/roboticslab-uc3m/Dextra)
+* 2018/02-2020/11 — TEO Humanoid Robot Sign Language [[Web]](http://roboticslab.uc3m.es/roboticslab/robottypeandapp/robot-sign-language) <br>
+* 2017/07-2018/07 — Development and Integration of an Anthropomorphic Robotic Hand in the Humanoid Robot TEO [[GitHub]](https://github.com/roboticslab-uc3m/Dextra)
 
 ## [PUBLICATIONS](papers.html)
 
