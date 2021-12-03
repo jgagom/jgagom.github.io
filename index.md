@@ -59,5 +59,5 @@ You can find most of my scientific publications in my [Google Scholar profile](h
 * [2018/03] 1st Prize - Best innovative project at 1st Indra Sistemas Hack Day
 * [2015/04] 1st Prize - "Ventana" by Jennifer Gago at Rafael Morales XII Poetry Contest
 
-## PRESS CONTRIBUTIONS
+## [PRESS CONTRIBUTIONS](.html)
 
