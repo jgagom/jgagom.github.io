@@ -60,7 +60,7 @@ Click [<b>here</b>](papers.html) if you want to check my publications. <br>
 
 ## PRESS CONTRIBUTIONS
 
-Click [<b>here</b>](.html) if you want to check my press contributions. <br>
+Click [<b>here</b>](press.html) if you want to check my press contributions. <br>
 
 ## SIDE PROJECTS
 
