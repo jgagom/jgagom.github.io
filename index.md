@@ -47,15 +47,15 @@ Click above if you want to check my publications. <br>
 <b>Piano and Music Theory Studies</b> at Alcobendas School of Music
 
 ## LANGUAGES
-* Spanish - Native Language
-* English - CAE: C1; IELTS: C1, Full professional proficiency
-* French - B1, Limited working proficiency
-* Lithuanian - A1, Elementary proficiency
+* Spanish: C2, Native Language
+* English: CAE: C1; IELTS: C1, Full professional proficiency
+* French: B1, Limited working proficiency
+* Lithuanian: A1, Elementary proficiency
 
 ## AWARDS
-* [2018/04] 1st Prize - Best Python programmed Bot at GUL UC3M Hackathon
-* [2018/03] 1st Prize - Best innovative project at 1st Indra Sistemas Hack Day
-* [2015/04] 1st Prize - "Ventana" by Jennifer Gago at Rafael Morales XII Poetry Contest
+* 1st Prize - Best Python programmed Bot at 2018 GUL UC3M Hackathon
+* 1st Prize - Best innovative project at 1st 2018 Indra Sistemas Hack Day
+* 1st Prize - "Ventana" by Jennifer Gago at 2015 Rafael Morales XII Poetry Contest
 
 ## [PRESS CONTRIBUTIONS](.html)
 
