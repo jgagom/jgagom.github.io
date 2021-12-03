@@ -25,7 +25,8 @@ You can find most of my scientific publications in my [Google Scholar profile](h
 
 * 2019/09-Ongoing — BA Philosophy at UNED [[Program]](http://portal.uned.es/portal/page?_pageid=93,71398199&_dad=portal&_schema=PORTAL&idTitulacion=7001) <br>
 * 2018/09-2020/02 — MSc Robotics and Automation at UC3M [[Program]](https://www.uc3m.es/master/robotics#curriculum) <br>
-* 2013/09-2018/06 — BEng Industrial Engineering (Intensification in Electronics & Automation) [[Program]](https://www.uc3m.es/bachelor-degree/industrial-technologies#program_previousprogram) <br>
+* 2013/09-2018/06 — BEng Industrial Engineering [[Program]](https://www.uc3m.es/bachelor-degree/industrial-technologies#program_previousprogram) <br>
+  (Intensification in Electronics & Automation) <br>
 * 2016/09-2017/06 — Erasmus+ Exchange at Vilnius Gediminas Technical University <br>
 * 2015/08-2016/01 — Free Mover Exchange at Edinburgh Napier University <br>
 * 2000/09-2010/06 — Piano and Music Theory Studies at Alcobendas School of Music
