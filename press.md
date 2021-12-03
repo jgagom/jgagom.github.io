@@ -17,9 +17,9 @@
 * 20 Minutos. "Así es Teo, el robot que sabrá hablar lengua de signos" - [06/09/2019](https://www.20minutos.es/videos/redes/cltyDTXZ-asi-es-teo-el-robot-que-sabra-hablar-lengua-de-signos/)
 * RTVE. "TEO aprende lengua de signos" - [23/07/2019](https://www.rtve.es/play/videos/en-lengua-de-signos/teo-robot-humanoide-uso-domestico-aprende-lengua-signos/5353538/)
 * TeleMadrid. "TEO, un robot humanoide capaz de planchar, pintar y hablar en lenguaje de signos" - [08/07/2019](https://www.telemadrid.es/programas/telenoticias-1/Teo-humanoide-planchar-incluso-lenguaje-2-2138506154--20190709032915.html)
-* Espacio Robot. "TEO, the robot that communicates in sign language | Carlos III University of Madrid (UC3M)" - [09/07/2019](https://www.youtube.com/watch?v=WbGXwftrczA&ab_channel=EspacioRobot)
-* UC3M. "TEO, el robot que comunica en lengua de signos | UC3M" - [08/07/2019](https://www.youtube.com/watch?v=kRFuTD-OCjk&ab_channel=UC3M)
-* UC3M. "(TEASER) TEO, el robot que comunica en lengua de signos | UC3M" - [08/07/2019](https://media.uc3m.es/video/5d3587f28f4208df508b4569)
+* Espacio Robot. "TEO, the robot that communicates in sign language - Carlos III University of Madrid (UC3M)" - [09/07/2019](https://www.youtube.com/watch?v=WbGXwftrczA&ab_channel=EspacioRobot)
+* UC3M. "TEO, el robot que comunica en lengua de signos - UC3M" - [08/07/2019](https://www.youtube.com/watch?v=kRFuTD-OCjk&ab_channel=UC3M)
+* UC3M. "(TEASER) TEO, el robot que comunica en lengua de signos - UC3M" - [08/07/2019](https://media.uc3m.es/video/5d3587f28f4208df508b4569)
 * Indagando TV. "TEO, el humanoide que habla con lengua de signos" - [08/97/2019](http://indagando.tv/2019/07/08/teo-el-humanoide-que-habla-con-lengua-de-signos/)
 
 ### Article / News
