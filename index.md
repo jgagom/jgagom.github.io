@@ -23,7 +23,7 @@ I am an Industrial Engineer specialized in Robotics and studying a Bachelor's De
 * 2018/02-2020/11 <br>
 TEO Humanoid Robot Sign Language [[Web]](http://roboticslab.uc3m.es/roboticslab/robottypeandapp/robot-sign-language) <br>
 * 2017/07-2018/07 <br>
-Development and Integration of an Anthropomorphic Robotic Hand in the Humanoid Robot TEO [[GitHub]](https://github.com/roboticslab-uc3m/Dextra)
+Development and Integration of an Anthropomorphic Robotic Hand in the Humanoid Robot TEO [[GitHub]](https://github.com/roboticslab-uc3m/Dextra) <br>
 
 ### Publications
 
@@ -48,14 +48,14 @@ Click [<b>here</b>](papers.html) if you want to check my publications. <br><br>
 * 2015/08-2016/01 <br>
 <b>Free Mover Exchange</b> at Edinburgh Napier University <br>
 * 2000/09-2010/06 <br>
-<b>Piano and Music Theory Studies</b> at Alcobendas School of Music
+<b>Piano and Music Theory Studies</b> at Alcobendas School of Music <br>
 
 ### Languages
 
 * Spanish: C2, Native Language
 * English: CAE: C1; IELTS: C1, Full professional proficiency
 * French: B1, Limited working proficiency
-* Lithuanian: A1, Elementary proficiency
+* Lithuanian: A1, Elementary proficiency <br>
 
 ### Courses
 
