@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: Jennifer J. <br> Gago Muñoz
+title: <big>Jennifer J. <br> Gago Muñoz</big>
 layout: default
 plugins:
     - jekyll-optional-front-matter
