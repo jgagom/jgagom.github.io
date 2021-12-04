@@ -5,6 +5,8 @@ I am an Industrial Engineer specialized in Robotics and studying a Bachelor's De
 
 ## PROFESSIONAL EXPERIENCE
 
+### Jobs
+
 * 10/2019-Ongoing <br>
 <b>Customer Success Engineer</b> at [MathWorks](https://es.mathworks.com/) <br>
 * 2018/02-2020/02 <br>
@@ -16,18 +18,21 @@ I am an Industrial Engineer specialized in Robotics and studying a Bachelor's De
 * 2016/06-2016/07 <br>
 <b>3D Printers Technical Intern</b> at [ASROB UC3M](https://asrob.uc3m.es/)
 
-## RESEARCH PROJECTS
+### Research projects
 
 * 2018/02-2020/11 <br>
 TEO Humanoid Robot Sign Language [[Web]](http://roboticslab.uc3m.es/roboticslab/robottypeandapp/robot-sign-language) <br>
 * 2017/07-2018/07 <br>
 Development and Integration of an Anthropomorphic Robotic Hand in the Humanoid Robot TEO [[GitHub]](https://github.com/roboticslab-uc3m/Dextra)
 
-## PUBLICATIONS
+### Publications
 
 Click [<b>here</b>](papers.html) if you want to check my publications. <br>
 
+
 ## EDUCATION
+
+### Degrees
 
 * 2019/09-Ongoing <br>
 <b>BA Philosophy</b> at UNED <br>
@@ -45,11 +50,24 @@ Click [<b>here</b>](papers.html) if you want to check my publications. <br>
 * 2000/09-2010/06 <br>
 <b>Piano and Music Theory Studies</b> at Alcobendas School of Music
 
-## LANGUAGES
+### Languages
+
 * Spanish: C2, Native Language
 * English: CAE: C1; IELTS: C1, Full professional proficiency
 * French: B1, Limited working proficiency
 * Lithuanian: A1, Elementary proficiency
+
+### Courses
+
+Click [<b>here</b>](courses.html) if you want to check the list of courses I have completed. <br>
+
+### Certifications
+
+Click [<b>here</b>](certificates.html) if you want to check the list of certificates I own. <br>
+
+## PRESS CONTRIBUTIONS
+
+Click [<b>here</b>](press.html) if you want to check my press contributions. <br>
 
 ## AWARDS & RECOGNITION 
 * Nomination & Membership - Nova Talent (top ~1-3% of profiles in my industry) 2021
@@ -57,19 +75,9 @@ Click [<b>here</b>](papers.html) if you want to check my publications. <br>
 * 1st Prize - Best innovative project at 1st 2018 Indra Sistemas Hack Day
 * 1st Prize - "Ventana" by Jennifer Gago at 2015 Rafael Morales XII Poetry Contest
 
-## PRESS CONTRIBUTIONS
-
-Click [<b>here</b>](press.html) if you want to check my press contributions. <br>
-
 ## SIDE PROJECTS
 
 * JEVART Survival Kits
 * CV Transformation
 
-## COURSES
 
-Click [<b>here</b>](courses.html) if you want to check the list of courses I have completed. <br>
-
-## CERTIFICATIONS
-
-Click [<b>here</b>](certificates.html) if you want to check the list of certificates I own. <br>
