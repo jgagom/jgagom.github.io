@@ -30,4 +30,4 @@ You can find most of my scientific publications in my [Google Scholar profile](h
 
 * Gago, J. J. (2020). Sus manos; Me estoy quitando. Sobre flipar. Aleatorio SLAM Poetry.
 * Gago, J. J. (2019). 7 DAYS compilation. Between Lithuania and Spain.
-* Gago, J. J. (2015). Ventana. First Price, Rafael Morales XII Poetry Contest. UC3M, MADRID, Spain.
+* Gago, J. J. (2015). Ventana. First Price, Rafael Morales XII Poetry Contest. UC3M, Madrid, Spain.
