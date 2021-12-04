@@ -1,6 +1,6 @@
 # About Me
 
-I am an Industrial Engineer specialized in Robotics and studying a Bachelor's Degree in Philosophy. I have worked with X-ray mobile equipment at Siemens R&D, as a MATLAB Ambassador for my home university, as a Robotics researcher in UC3M RoboticsLab and as a Customer Success Engineer for MathWorks. Besides work: family, musical instruments, sports, reading, and traveling. Continuosly pursing opportunities to grow both professionally and personally.
+I am an Industrial Engineer specialized in Robotics and studying a Bachelor's Degree in Philosophy. I have worked with X-ray mobile equipment at Siemens R&D, as a MATLAB Ambassador for my home university, as a Robotics researcher in UC3M RoboticsLab and as a Customer Success Engineer for MathWorks. Besides work: family, musical instruments, sports, reading, and traveling. Continuosly pursing opportunities to grow both professionally and personally.<br><br>
 
 
 ## PROFESSIONAL EXPERIENCE
@@ -16,7 +16,7 @@ I am an Industrial Engineer specialized in Robotics and studying a Bachelor's De
 * 2017/06-2018/02 <br>
 <b>X-Ray Mobile Equipment R&D Intern</b> at [Siemens](https://www.siemens-healthineers.com/es) <br>
 * 2016/06-2016/07 <br>
-<b>3D Printers Technical Intern</b> at [ASROB UC3M](https://asrob.uc3m.es/)
+<b>3D Printers Technical Intern</b> at [ASROB UC3M](https://asrob.uc3m.es/)<br>
 
 ### Research projects
 
@@ -27,7 +27,7 @@ Development and Integration of an Anthropomorphic Robotic Hand in the Humanoid R
 
 ### Publications
 
-Click [<b>here</b>](papers.html) if you want to check my publications. <br>
+Click [<b>here</b>](papers.html) if you want to check my publications. <br><br>
 
 
 ## EDUCATION
@@ -63,17 +63,17 @@ Click [<b>here</b>](courses.html) if you want to check the list of courses I hav
 
 ### Certifications
 
-Click [<b>here</b>](certificates.html) if you want to check the list of certificates I own. <br>
+Click [<b>here</b>](certificates.html) if you want to check the list of certificates I own. <br><br>
 
 ## PRESS CONTRIBUTIONS
 
-Click [<b>here</b>](press.html) if you want to check my press contributions. <br>
+Click [<b>here</b>](press.html) if you want to check my press contributions. <br><br>
 
 ## AWARDS & RECOGNITION 
 * Nomination & Membership - Nova Talent (top ~1-3% of profiles in my industry) 2021
 * 1st Prize - Best Python Bot at 2018 GUL UC3M Hackathon
 * 1st Prize - Best innovative project at 1st 2018 Indra Sistemas Hack Day
-* 1st Prize - "Ventana" by Jennifer Gago at 2015 Rafael Morales XII Poetry Contest
+* 1st Prize - "Ventana" by Jennifer Gago at 2015 Rafael Morales XII Poetry Contest <br><br>
 
 ## SIDE PROJECTS
 
