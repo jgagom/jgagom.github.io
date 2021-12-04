@@ -28,8 +28,8 @@
 * IEEE/RSJ IROS 2018 - MathWorks Drone Competition, Universidad Carlos III de Madrid, Issued Oct 2018
 
 ### Tests
-* Data Interpretation Test, Fundación Universidad-Empresa, Issued Feb 2017
-* English Language Test - Level of proficiency: C2, Fundación Universidad-Empresa, Issued Feb 2017
+* Data Interpretation Test (100/100), Fundación Universidad-Empresa, Issued Feb 2017
+* English Language Test - Level of proficiency: C2 (84%), Fundación Universidad-Empresa, Issued Feb 2017
 
 ### Other
 * Membership Certificate, Nova Talent, Issued Dec 2021
