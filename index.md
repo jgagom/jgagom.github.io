@@ -77,7 +77,7 @@ Click [<b>here</b>](press.html) if you want to check my press contributions. <br
 
 ## SIDE PROJECTS
 
-* JEVART Survival Kits
-* CV Transformation
+* JEVART Kits
+* CV Renewal
 
 
