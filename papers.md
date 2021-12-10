@@ -9,7 +9,7 @@ You can find most of my scientific publications in my [Google Scholar profile](h
 
 
 ### Journals
-* Fernandez-Gernandez, R., Victores, J. G., Gago J. J., Estevez D., Balaguer, C. ([2021, March](https://www.sciencedirect.com/science/article/pii/S1389041721000838?via%3Dihub)). Neural Policy Style Transfer. Elservier, 72.
+* Fernandez-Gernandez, R., Victores, J. G., Gago J. J., Estevez D., Balaguer, C. ([2021, March](https://www.sciencedirect.com/sdfe/reader/pii/S1389041721000838/pdf)). Neural Policy Style Transfer. Elservier, 72.
 * Gago, J. J., Victores, J. G., & Balaguer, C. ([2019](https://www.mdpi.com/389670)). Sign language representation by teo humanoid robot: end-user interest, comprehension and satisfaction. Electronics, 8(1), 57.
 
 ### Conferences
