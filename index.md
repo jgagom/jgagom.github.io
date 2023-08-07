@@ -67,19 +67,13 @@ Click [<b>here</b>](courses.html) if you want to check the list of courses I hav
 
 Click [<b>here</b>](certificates.html) if you want to check the list of certificates I own. <br><br>
 
-## PRESS CONTRIBUTIONS
-
-Click [<b>here</b>](press.html) if you want to check my press contributions. <br><br>
-
 ## AWARDS & RECOGNITION 
 * Nomination & Membership - Nova Talent (top ~1-3% of profiles in my industry) 2021
 * 1st Prize - Best Python Bot at 2018 GUL UC3M Hackathon
 * 1st Prize - Best innovative project at 1st 2018 Indra Sistemas Hack Day
 * 1st Prize - "Ventana" by Jennifer Gago at 2015 Rafael Morales XII Poetry Contest <br><br>
 
-## SIDE PROJECTS
+## MEDIA CONTRIBUTIONS
 
-* JEVART Kits
-* CV Renewal
-
+Click [<b>here</b>](press.html) if you want to check my press contributions. <br><br>
 
