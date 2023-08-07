@@ -8,6 +8,8 @@ I am an Industrial Engineer specialized in Robotics and studying a Bachelor's De
 ### Jobs
 
 * 10/2019 - Ongoing <br>
+<b>Senior Customer Success Engineer</b> at [MathWorks](https://es.mathworks.com/) <br>
+* 10/2019 - 05/2023 <br>
 <b>Customer Success Engineer</b> at [MathWorks](https://es.mathworks.com/) <br>
 * 2018/02 - 2020/02 <br>
 <b>Researcher</b> at [RoboticsLab](http://roboticslab.uc3m.es/roboticslab/) UC3M <br>
