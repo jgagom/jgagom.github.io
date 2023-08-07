@@ -1,6 +1,6 @@
 # About Me
 
-I am an Industrial Engineer specialized in Robotics and studying a Bachelor's Degree in Philosophy. I have worked with X-ray mobile equipment at Siemens R&D, as a MATLAB Ambassador for my home university, as a Robotics researcher in UC3M RoboticsLab and as a Customer Success Engineer for MathWorks. Besides work: family, musical instruments, sports, reading, and traveling. Continuosly pursing opportunities to grow both professionally and personally.<br><br>
+I am a Senior Industrial Engineer specialized in Robotics and Automation and I am currently completing my degree in Philosophy. Throughout the continuous learning process that I try to keep active, I have also been able to complete other non-university courses in classical piano, front-end development, and languages.<br><br>
 
 
 ## PROFESSIONAL EXPERIENCE
