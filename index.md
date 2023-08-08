@@ -9,6 +9,8 @@ I am a Senior Industrial Engineer specialized in Robotics and Automation and I a
 
 * 05/2023 - Ongoing <br>
 <b>Senior Customer Success Engineer</b> at [MathWorks](https://es.mathworks.com/) <br>
+* 04/2023 - 04/2023 <br>
+<b>Walk-on Artist</b> at [RTVE](https://www.rtve.es/) <br>
 * 10/2019 - 05/2023 <br>
 <b>Customer Success Engineer</b> at [MathWorks](https://es.mathworks.com/) <br>
 * 2018/02 - 2020/02 <br>
