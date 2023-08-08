@@ -7,7 +7,7 @@ I am a Senior Industrial Engineer specialized in Robotics and Automation and I a
 
 ### Jobs
 
-* 10/2019 - Ongoing <br>
+* 05/2023 - Ongoing <br>
 <b>Senior Customer Success Engineer</b> at [MathWorks](https://es.mathworks.com/) <br>
 * 10/2019 - 05/2023 <br>
 <b>Customer Success Engineer</b> at [MathWorks](https://es.mathworks.com/) <br>
